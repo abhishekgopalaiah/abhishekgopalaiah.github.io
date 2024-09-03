@@ -35,7 +35,10 @@ Check out my YouTube channel, [Tech Jaala](https://www.youtube.com/@techjaala923
 
 Feel free to connect with me or reach out if you have any questions:
 
-- **Email:** [abhishek.g9321@gmail.com](abhishek.g9321@gmail.com)
+- **Email:** [abhishek.g9321@gmail.com](mailto:abhishek.g9321@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abhishekgopalaiah](https://www.linkedin.com/in/abhishekgopalaiah/)
 - **GitHub:** [github.com/abhi9321](https://github.com/abhi9321)
+- **YouTube:** [Tech Jaala](https://www.youtube.com/@techjaala9230)
+- **Blog:** [Blog](https://techjaala.blogspot.com/)
+
 

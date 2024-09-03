@@ -29,7 +29,7 @@ A classic Tic-Tac-Toe game implemented in Python. This project demonstrates my a
 
 ## YouTube Channel
 
-Check out my YouTube channel, [Tech Jaala](https://www.youtube.com/channel/UC0b8DL73tXv34P3qR2WmZwA), where I create content related to Python programming and various tech tutorials.
+Check out my YouTube channel, [Tech Jaala](https://www.youtube.com/@techjaala9230), where I create content related to Python programming and various tech tutorials.
 
 ## Contact
 

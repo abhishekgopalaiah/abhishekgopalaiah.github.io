@@ -1,4 +1,4 @@
-# Abhishek G's Portfolio
+<!-- # Abhishek G's Portfolio -->
 
 Welcome to my portfolio! I am Abhishek, a Senior Data Engineer with expertise in Python, Spark, SQL, and AWS. I am also an AWS Certified Solutions Architect – Associate. This repository showcases some of my projects and skills.
 
@@ -37,8 +37,8 @@ Feel free to connect with me or reach out if you have any questions:
 
 - **Email:** [abhishek.g9321@gmail.com](mailto:abhishek.g9321@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abhishekgopalaiah](https://www.linkedin.com/in/abhishekgopalaiah/)
-- **GitHub:** [github.com/abhi9321](https://github.com/abhi9321)
+- **GitHub:** [github.com/abhishekgopalaiah)(https://github.com/abhishekgopalaiah)
 - **YouTube:** [Tech Jaala](https://www.youtube.com/@techjaala9230)
-- **Blog:** [Blog](https://techjaala.blogspot.com/)
+- **Blog:** [Tech Blog](https://techjaala.blogspot.com/)
 
 

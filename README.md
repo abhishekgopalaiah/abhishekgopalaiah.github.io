@@ -4,6 +4,11 @@ Welcome to my portfolio! I am Abhishek, a Senior Data Engineer with expertise in
 
 ## Projects
 
+### aiflow_data_pipeline
+
+- **Repository:** [airflow-data-pipelines](https://github.com/abhishekgopalaiah/airflow-data-pipelines)
+
+
 ### Tic-Tac-Toe Game
 
 A classic Tic-Tac-Toe game implemented in Python. This project demonstrates my ability to create interactive applications and showcases my Python programming skills.

@@ -4,6 +4,10 @@ Welcome to my portfolio! I am Abhishek, a Senior Data Engineer with expertise in
 
 ## Projects
 
+### realtime-log-analytics
+- **Repository:** [realtime-log-analytics](https://github.com/abhishekgopalaiah/realtime-log-analytics)
+- **Description:** This project implements a real-time log analytics pipeline using PySpark, Spark Structured Streaming, and Delta Lake on Databricks. The pipeline follows a Medallion (Bronze-Silver-Gold) architecture, enabling efficient data ingestion, transformation, and aggregation for log data. It’s designed to process and analyze logs at scale, providing insights such as log counts by severity level.
+
 ### aiflow_data_pipeline
 
 - **Repository:** [airflow-data-pipelines](https://github.com/abhishekgopalaiah/airflow-data-pipelines)
